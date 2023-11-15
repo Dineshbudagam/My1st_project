@@ -1,7 +1,7 @@
 folder('bootstrap')
 
 // pipeline bootstrap job
-pipelineJob('bootstrap/client_bootstrap) {
+pipelineJob('bootstrap/client_bootstrap') {
 definition {
 cpsScm {
 scm{
