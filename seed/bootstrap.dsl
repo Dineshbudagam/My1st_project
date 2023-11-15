@@ -12,7 +12,7 @@ branch("master")
 }
 }
 }
-scriptPatch('Jenkinsfile')
+scriptPath('Jenkinsfile')
 
 }
 }
